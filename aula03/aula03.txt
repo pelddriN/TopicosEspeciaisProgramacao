@@ -1,0 +1,7 @@
+Durante a aula, foi ensinado como utilizar a API da Groq. O primeiro passo consiste em criar uma conta no site da Groq e, em seguida, gerar uma chave de API, que será usada para autenticar as requisições. Para facilitar o uso e garantir mais segurança, é recomendado configurar essa chave como uma variável de ambiente no sistema operacional. Em sistemas Linux, usa-se o comando export GROQ_API_KEY=sua_chave, enquanto no Windows pode-se utilizar setx GROQ_API_KEY "sua_chave" para defini-la permanentemente ou set GROQ_API_KEY=sua_chave para uso apenas na sessão atual do terminal.
+
+Após configurar a chave, é necessário instalar a biblioteca da Groq usando o comando pip install groq. Com a biblioteca instalada, pode-se iniciar a comunicação com a API criando um cliente Groq e utilizando a função chat.completions.create() para gerar respostas.
+
+Foi apresentado também que a Groq oferece diferentes tipos de modelos. Os modelos de produção são indicados para uso real, pois possuem alto desempenho e estabilidade. Já os modelos de preview são voltados para testes e podem ser desativados sem aviso prévio.
+
+Por fim, a aula abordou o recurso de transcrição de áudio. Usando o modelo whisper-large-v3-turbo, é possível enviar um arquivo de áudio e receber como resposta o texto correspondente à fala contida nesse arquivo. Isso é feito abrindo o arquivo em modo binário, enviando para a API e imprimindo o resultado da transcrição.
