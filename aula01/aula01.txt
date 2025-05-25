@@ -1,0 +1,46 @@
+Nessa aula fomos introduzidos a matéria.
+Professor passou slides, deu exemplos e após isso nos apresentou a ferramenta Suno.
+
+O Suno é uma IA poderosa para criação de músicas a partir de um PROMPT criado pelo o usuário, contendo diversos gêneros musicais.
+
+E então, criei a minha, intitulada como "Euro Garden Urban Park", a ideia era a apresentação de um novo condomínio.
+
+Uma propaganda musical com a seguinte letra:
+
+"[Verse]
+Um jardim no paraíso
+Entre flores a paz está
+Cada canto tão preciso
+Euro Garden pra morar
+
+[Verse 2]
+Skyline faz poesia
+Elegância ao se mostrar
+Um refúgio de harmonia
+Onde o luxo vai brilhar
+
+[Chorus]
+Toque fino na cidade
+Euro Garden é você
+Onde a vida em liberdade
+Tem motivo pra viver
+
+[Verse 3]
+Lago azul e verde mata
+Vida plena sem igual
+Cada dia é serenata
+Num cenário natural
+
+[Verse 4]
+Apartamentos dos sonhos
+Vista ampla a encantar
+De perto o bem e o belo
+Euro Garden é seu lar
+
+[Bridge]
+Mãos dadas ao requinte
+Sustentável a sonhar
+Parque urbano que convida
+Euro Garden seu lugar"
+
+link para conferência: https://suno.com/song/a78a84db-b147-4e72-85c3-c43f486acdbc
