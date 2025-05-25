@@ -1,0 +1,4 @@
+Nessa aula fomos introduzidos ao ambiente Virtual no Python.
+Fizemos todas as configurações necessárias no computador e então partimos para os testes.
+
+Em seguida, criamos conta no GPT, geramos uma chave API e então começamos a explorar, conforme arquivo presente nesta pasta.
